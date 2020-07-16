@@ -1,9 +1,6 @@
 /***************************
- * Student Number : 1815364
+ * Created on 7 Apr 2020
  * Name : Kim Doy
- ---------------------------
- * 실습 2 : exer2/t2.c
- * created on Tue 7 Apr 2020
  ***************************/
 
 #include <stdio.h>
