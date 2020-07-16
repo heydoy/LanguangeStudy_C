@@ -1,8 +1,6 @@
 /**************************
-* 학  번 : 1815364
-* 이  름 : 김도이
-* 실습 4 : exer4/t2.c
-* created on Tue 21 Arr 2020
+* created on 21 Apr 2020
+* Kim Doy 
 ***************************/
  
 #include <stdio.h>
