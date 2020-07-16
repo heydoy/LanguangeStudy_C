@@ -1,8 +1,6 @@
 /*
- * Student No. 1815364
+ * Created on 26 May 2020
  * Name. Kim Doy
- *
- * exer8/t2.c
  * 거스름돈 구하기, call by reference 함수 이용
  */
 
