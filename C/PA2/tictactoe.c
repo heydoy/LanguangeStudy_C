@@ -1,12 +1,9 @@
-/* -------------------------
- * Programming Assignment #2
- * PA2/tictactoe.c
- * Due date : 7th Jun, 2020
- * -------------------------
- * 
- * Student No. 1815364
- * Student Name. Kim Doy
- */
+/*
+ 틱택토 게임 
+
+ 7th Jun, 2020
+ Kim Doy 
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
