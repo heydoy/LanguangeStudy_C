@@ -1,7 +1,5 @@
 /*
- * Student No. 1815364
  * Name. Kim Doy
- * exer10/t2.c
  * merge sorted 
  */
 
