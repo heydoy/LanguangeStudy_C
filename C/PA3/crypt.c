@@ -1,3 +1,11 @@
+/*
+암호화
+./crypt [16자리평문] [8자리암호문] 1 
+복호화
+./crypt [32자리평문] [8자리암호문] 2
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
