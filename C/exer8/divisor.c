@@ -1,8 +1,6 @@
 /*
- * Student No. 1815364
+ * Created on 26 May 2020
  * Name. Kim Doy 
- *
- * exer8/t1.c
  * 양의 약수 구하기, 포인터활용
  */
 
