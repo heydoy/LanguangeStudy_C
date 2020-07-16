@@ -9,9 +9,9 @@ Answer.txt by Doy Kim
 #include <stdlib.h>
 #include <string.h>
 
-/* Your Mission: Printing out 1815364 */
+/* ans에 있는 7자리 숫자를 출력하도록 answer.txt에 입력하기*/
 
-char* ans = "1815364";
+char* ans = "1234567";
 
 void q1(int a, int b, int c, int d);
 void q2(int a, int b, int c);
