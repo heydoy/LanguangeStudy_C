@@ -1,7 +1,6 @@
 /*
- * Student No. : 1815364
+ * Created on 12 May 2020 
  * Name : Kim doy
- * Mission 2 : exer6/t2.c
  */
 
 
