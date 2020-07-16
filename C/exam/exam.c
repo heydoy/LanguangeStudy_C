@@ -3,6 +3,7 @@ C언어 파일입출력과 함수를 이용한 시험문제
 
 Original Code by Prof. Park
 Answer.txt by Doy Kim 
+
 */
 
 #include <stdio.h>
