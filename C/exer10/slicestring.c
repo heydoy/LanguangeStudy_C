@@ -1,5 +1,4 @@
 /*
- * Student No. 1815364
  * Name. Kim Doy
  * exer10/t1.c
  * : string slicing
