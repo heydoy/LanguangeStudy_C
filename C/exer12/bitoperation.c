@@ -1,7 +1,6 @@
 /*
- * Student NO. 1815364
+ * Created on 25 Jun 2020
  * Name. Kim Doy
- * exer12/t1.c
  */
 
 
