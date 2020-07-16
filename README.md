@@ -1,7 +1,7 @@
 # LanguangeStudy_C
 
 ---
-layout: C/
+layout: post
 title:  "C언어 문법 위주 실습"
 tags: [Language]
 ---
