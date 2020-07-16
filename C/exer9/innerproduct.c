@@ -1,7 +1,6 @@
 /*
- * Student No. 1815364
+ * Created on 2 Jun 2020 
  * Name. Kim Doy
- * exer9/t1.c
  * 벡터 내적 값 출력 프로그램
  */
 
