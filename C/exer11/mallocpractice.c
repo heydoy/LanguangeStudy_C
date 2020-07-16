@@ -1,8 +1,6 @@
 /*
- * Student No. 1815364
+ * Created on Jun 16, 2020
  * Name. Kim Doy
- * -------------------
- * exer11/t2.c
  */
 
 #include <stdio.h>
