@@ -1,7 +1,6 @@
 /*
- * Student No. 1815364
+ * Created on 2 Jun 2020
  * Name. Kim Doy
- * exer9/t2.c
  * 배열에서 찾는 수가 몇번째인지 출력
  */
 
