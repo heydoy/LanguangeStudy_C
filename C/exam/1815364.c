@@ -1,3 +1,7 @@
+/*
+C언어 파일입출력과 함수를 이용한 시험문제 
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
